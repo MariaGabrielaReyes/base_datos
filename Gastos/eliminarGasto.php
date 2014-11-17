@@ -2,17 +2,19 @@
 <title>Eliminar Usuario :P</title>
 
 <?php
-	$db = new Sqlite3("base2.db");
+	$db = new Sqlite3("base_gastos.db");
 
 	$codigo = $_GET['id'];
 
-	$eliminar = $db ->exec("DELETE FROM tbUsuarios WHERE id=$codigo");
+	$eliminar = $db ->exec("DELETE FROM tbGastos WHERE id=$codigo");
 
 
 	if ($eliminar){
-		echo "El usuario ha sido eliminado satisfactoriamente.";
+		echo "El gasto ha sido eliminado satisfactoriamente.";
 	}else{
-		echo "Usuario no pudo ser eliminado correctamente.";
+		echo "Gasto no eliminado correctamente.";
 	 }
 
  ?>
+<br></br>
+		<a href="Gastos.php">Volver a Gastos</a>

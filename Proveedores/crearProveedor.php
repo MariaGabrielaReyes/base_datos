@@ -28,21 +28,21 @@
 					<label>Direccion</label>
 				</td>
 				<td>
-					<input type="text" name="Direccion">
+					<input type="text" name="direccion">
 				</td>
 			</tr>
 				<td>
 				<label>Telefono</label>
 				</td>
 				<td>
-				<input type="text" name="Telefono">
+				<input type="text" name="telefono">
 				</td>
 			<tr>
 				<td>
 				<label>Regimen</label>
 				</td>
 				<td>
-				<input type="text" name="Regimen">
+				<input type="text" name="regimen">
 				</td>
 			</tr>
 
@@ -51,7 +51,7 @@
 		<input type="submit" value="Guardar">
 
 	</form>
-
+<a href="Proveedores.php">Volver a Proveedores</a>
 
 </body>
 </html>

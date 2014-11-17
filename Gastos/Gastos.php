@@ -42,6 +42,7 @@
 	<br><br>
 
 <button><A HREF="crearGasto.php">Nuevo Gasto</A></button>
-
+<br>
+<a href="http://localhost/Gaby/Trabajito_Gaby/">Menú Principal</a>
 </body>
 </html>

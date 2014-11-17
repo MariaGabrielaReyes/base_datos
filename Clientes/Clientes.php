@@ -43,6 +43,8 @@
 	<br><br>
 
 <button><A HREF="crearCliente.php">Crear Cliente</A></button>
+<br>
+<a href="http://localhost/Gaby/Trabajito_Gaby/">Menú Principal</a>
 
 </body>
 </html>

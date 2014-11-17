@@ -1,4 +1,4 @@
-<html>
+Mercancias<html>
 <head>
 	<title>Actualizar Mercancia </title>
 </head>
@@ -55,6 +55,8 @@
 		<input type="submit" value="Actualizar">
 
 	</form>
+	<br></br>
+		<a href="Mercancias.php">Volver a Mercancias</a>
 
 
 </body>

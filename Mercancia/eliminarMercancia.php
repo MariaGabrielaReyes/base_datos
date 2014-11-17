@@ -16,3 +16,5 @@
 	 }
 
  ?>
+<br></br>
+		<a href="Mercancias.php">Volver a Mercancias</a>

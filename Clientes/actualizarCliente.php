@@ -15,8 +15,10 @@ $db = new Sqlite3("base_clientes.db");
 	echo $result;
 
 	if ($result) {
-		echo $id. " ha sido actualizado exitosamente";
+		echo $nom. " ha sido actualizado exitosamente";
 	}else{
 		echo $nom. " NO ha sido actualizado exitosamente";
 	}
 ?>
+<br></br>
+		<a href="Clientes.php">Volver a Clientes</a>

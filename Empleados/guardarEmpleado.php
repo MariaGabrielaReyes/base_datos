@@ -15,3 +15,5 @@
 		echo "El empleado no ha sido guardado correctamente.";
 	}
 ?>
+<br></br>
+		<a href="Empleados.php">Volver a Empleados</a>

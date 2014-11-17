@@ -54,7 +54,8 @@
 		<input type="submit" value="Actualizar">
 
 	</form>
-
+<br></br>
+		<a href="Gastos.php">Volver a Gastos</a>
 
 </body>
 </html>

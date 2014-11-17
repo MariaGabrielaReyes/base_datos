@@ -36,7 +36,8 @@
 		<input type="submit" value="Guardar">
 
 	</form>
-
+<br></br>
+		<a href="Mercancias.php">Volver a Mercancias</a>
 
 </body>
 </html>

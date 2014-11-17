@@ -54,6 +54,8 @@
 		<input type="submit" value="Guardar">
 
 	</form>
+	<br></br>
+		<a href="Clientes.php">Volver a Clientes</a>
 
 
 </body>

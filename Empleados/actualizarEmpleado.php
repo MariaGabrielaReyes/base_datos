@@ -20,3 +20,5 @@ $db = new Sqlite3("base_empleados.db");
 		echo $nom. " NO ha sido actualizado exitosamente";
 	}
 ?>
+<br></br>
+		<a href="Empleados.php">Volver a Empleados</a>

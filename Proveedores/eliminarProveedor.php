@@ -16,3 +16,5 @@
 	 }
 
  ?>
+ <BR><BR>
+ 	<a href="Proveedores.php">Volver a Proveedores</a>

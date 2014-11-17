@@ -20,3 +20,5 @@ $consulta = 'UPDATE TbProveedores SET nombre="'.$nom.'", NIT="'.$nit.'", telefon
 		echo $nom. " NO ha sido actualizado exitosamente";
 	}
 ?>
+<BR><BR>
+<a href="Proveedores.php">Volver a Proveedores</a>

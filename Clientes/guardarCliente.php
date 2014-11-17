@@ -16,3 +16,5 @@
 		echo "El Cliente no sido guardado correctamente.";
 	}
 ?>
+<br></br>
+		<a href="Clientes.php">Volver a Clientes</a>

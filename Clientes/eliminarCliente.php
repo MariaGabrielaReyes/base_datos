@@ -16,3 +16,5 @@
 	 }
 
  ?>
+<br></br>
+		<a href="Clientes.php">Volver a Clientes</a>

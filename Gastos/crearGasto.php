@@ -35,6 +35,8 @@
 		<input type="submit" value="Guardar">
 
 	</form>
+	<br></br>
+		<a href="Gastos.php">Volver a Gastos</a>
 
 
 </body>

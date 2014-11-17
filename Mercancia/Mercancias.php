@@ -41,6 +41,7 @@
 	<br><br>
 
 <button><A HREF="crearMercancia.php">Crear Mercancia</A></button>
-
+<br>
+<a href="http://localhost/Gaby/Trabajito_Gaby/">Menú Principal</a>
 </body>
 </html>

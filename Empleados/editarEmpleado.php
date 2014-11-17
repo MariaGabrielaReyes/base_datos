@@ -61,7 +61,8 @@
 		<input type="submit" value="Actualizar">
 
 	</form>
-
+<br></br>
+		<a href="Empleados.php">Volver a Empleados</a>
 
 </body>
 </html>

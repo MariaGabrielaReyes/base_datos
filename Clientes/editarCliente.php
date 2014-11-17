@@ -67,7 +67,8 @@
 		<input type="submit" value="Actualizar">
 
 	</form>
-
+	<br></br>
+		<a href="Clientes.php">Volver a Clientes</a>
 
 </body>
 </html>

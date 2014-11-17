@@ -14,3 +14,5 @@
 		echo "El producto no ha sido guardado correctamente.";
 	}
 ?>
+<br></br>
+		<a href="Mercancias.php">Volver a Mercancias</a>

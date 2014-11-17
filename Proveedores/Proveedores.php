@@ -44,7 +44,10 @@
 
 	<br><br>
 
-<button><A HREF="crearProveedor.php">Crear Proveedor</A></button>
+<button><A HREF="crearProveedor.php">Crear Proveedor</A></button> 
+<br>
+ <a href="http://localhost/Gaby/Trabajito_Gaby/">Menú Principal</a>
+
 
 </body>
 </html>

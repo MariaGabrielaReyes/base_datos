@@ -67,7 +67,8 @@
 		<input type="submit" value="Actualizar">
 
 	</form>
-
+	<br></br>
+		<a href="Proveedores.php">Volver a Proveedores</a>
 
 </body>
 </html>

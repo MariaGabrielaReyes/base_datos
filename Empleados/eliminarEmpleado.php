@@ -10,9 +10,11 @@
 
 
 	if ($eliminar){
-		echo "El usuario ha sido eliminado satisfactoriamente.";
+		echo "El Empleado ha sido eliminado satisfactoriamente.";
 	}else{
-		echo "Usuario no pudo ser eliminado correctamente.";
+		echo "Empleado no eliminado correctamente.";
 	 }
 
  ?>
+<br></br>
+		<a href="Empleados.php">Volver a Empleados</a>

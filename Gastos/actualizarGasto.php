@@ -19,3 +19,5 @@ $db = new Sqlite3("base_gastos.db");
 		echo " NO ha sido actualizado exitosamente";
 	}
 ?>
+<br></br>
+		<a href="Gastos.php">Volver a Gastos</a>

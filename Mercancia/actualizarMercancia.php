@@ -19,3 +19,5 @@ $db = new Sqlite3("base_mercancia.db");
 		echo $nom. " NO ha sido actualizado exitosamente";
 	}
 ?>
+<br></br>
+		<a href="Mercancias.php">Volver a Mercancias</a>
